@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class List_ArrayList2_HetrogeniousData {
+public class List_ArrayList_3_HetrogeniousData {
 
 	public static void main(String[] args) {
 		ArrayList arrayList1=new ArrayList();

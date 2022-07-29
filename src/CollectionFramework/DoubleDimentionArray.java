@@ -32,6 +32,9 @@ public class DoubleDimentionArray {
 				System.out.println(a1[r][c]);
 				
 			}
+			
+			
+
 		}
 		
 		

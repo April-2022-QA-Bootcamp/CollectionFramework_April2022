@@ -8,9 +8,9 @@ public class Map_TreeMap_01 {
 	public static void main(String[] args) {
 		TreeMap<Integer, EnthrallApr22> tree=new TreeMap<>();
 		
-		EnthrallApr22 st1=new EnthrallApr22("Ryhan");
-		EnthrallApr22 st2=new EnthrallApr22("Murad");
-		EnthrallApr22 st3=new EnthrallApr22("Sahana");
+		EnthrallApr22 st1=new EnthrallApr22("Ryhan",90);
+		EnthrallApr22 st2=new EnthrallApr22("Murad",80);
+		EnthrallApr22 st3=new EnthrallApr22("Sahana",50);
 		
 		
 		

@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class List_ArrayList_3_Generic {
+public class List_ArrayList_4_Generic {
 	
 	//Generic is the idea to make the arrayList to allow same type data
 

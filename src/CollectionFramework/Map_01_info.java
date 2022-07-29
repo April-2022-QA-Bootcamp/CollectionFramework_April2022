@@ -49,6 +49,6 @@ TreeMap doesn't allow any null key or value
 
 */
 
-public class Map_21_info {
+public class Map_01_info {
 
 }

@@ -2,7 +2,7 @@ package CollectionFramework;
 
 import java.util.ArrayList;
 
-public class List_ArrayList_4_UsingCommonMethods {
+public class List_ArrayList_5_UsingCommonMethods {
 
 	public static void main(String[] args) {
 		ArrayList<Integer>  arrayList1=new ArrayList<Integer>();

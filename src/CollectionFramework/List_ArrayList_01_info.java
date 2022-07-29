@@ -1,5 +1,7 @@
 package CollectionFramework;
 
+
+
 /*
  ArrayList Class
  
@@ -8,7 +10,7 @@ uses a dynamic array
 duplicate element
 different data types (Heterogeneous elements are allowed)
 maintains the insertion order (insertion order will be preserved ->will print as you add)
-**non-synchronized 
+non-synchronized 
 elements stored in the ArrayList class can be randomly accessed (by using get(index)
 stores values in the basis of index
 null insertion is possible (String)
@@ -30,20 +32,7 @@ ar.get(1000)-- -- it will take 1 m.sec too
 RandomAccess  (marker Interface- no method available) Interface is implemented by ArrayList
 
  *
- */
+*/
+public class List_ArrayList_01_info {
 
-
-
-
-
-
-public class List_1_ArrayList_Info {
-	 public void add() {
-		System.out.println(5+5);
-	}
-public static void main(String[]args) {
-	List_1_ArrayList_Info objArrayList_Info =new List_1_ArrayList_Info();
-	objArrayList_Info.add();
-	
-}
 }
